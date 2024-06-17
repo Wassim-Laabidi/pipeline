@@ -1,0 +1,13 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B524EF6A-16BA-4C97-9ED6-8D5450DDF4C5}
+	EndGlobalSection
+EndGlobal
